@@ -1,8 +1,8 @@
--  Hi, I’m Mei
--  I’m interested in: Arts
--  I’m currently learning How: to edit
--  I’m looking to collaborate on: not sure
--  How to reach me: Fb:Mei Suzuki
+Hello! I'm mei
+I like catss
+Pronounce are they/them 
+Non-Binary
+Kindly visit my account on facebook: Mei Suzuki
 
 <!---
 Mxiimei/Mxiimei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
